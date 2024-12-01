@@ -1,0 +1,17 @@
+F:\hoangkhai\ClothesBadmintonManagent\bin\Debug\ClothesBadmintonManagent.exe.config
+F:\hoangkhai\ClothesBadmintonManagent\bin\Debug\ClothesBadmintonManagent.exe
+F:\hoangkhai\ClothesBadmintonManagent\bin\Debug\ClothesBadmintonManagent.pdb
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.csproj.AssemblyReference.cache
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form1.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Properties.Resources.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.csproj.GenerateResource.cache
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.csproj.CoreCompileInputs.cache
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.exe
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.pdb
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form2.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form3.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form4.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form5.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form6.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form7.resources
+F:\hoangkhai\ClothesBadmintonManagent\obj\Debug\ClothesBadmintonManagent.Form0.resources
